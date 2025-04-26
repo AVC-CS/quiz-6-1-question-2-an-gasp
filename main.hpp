@@ -13,7 +13,7 @@ int writeFile(const string &filename) {
 
     int numEmployees;
     cout << "Enter the number of Employees: ";
-    cin >> numEmployees
+    
 
     for (int i = 0; i < numEmployees; ++i) {
         int id;
